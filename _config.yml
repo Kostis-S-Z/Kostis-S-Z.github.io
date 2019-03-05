@@ -1,3 +1,7 @@
 theme: jekyll-theme-midnight
 title: He(y|j)!
 description: Notes on different ML stuff
+email: kosz@kth.se
+baseurl: ""
+url: https://kostis-s-z.github.io/
+github_username: Kostis-S-Z
