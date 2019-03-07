@@ -3,6 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-# Kostis S-Z
+# Konstantinos Saitas - Zarkias
 
-## Master Student in Machine Learning @ KTH
+- Master Student in Machine Learning @ KTH
