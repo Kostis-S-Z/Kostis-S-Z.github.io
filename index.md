@@ -1,4 +1,8 @@
-# Understanding AI: A human's perspective
-_posts inspired while building [this](https://github.com/Kostis-S-Z/Jag.AI)_
+---
+layout: page
+title: About
+permalink: /about/
+---
+# Konstantinos Saitas - Zarkias
 
-
+- Master Student in Machine Learning @ KTH
