@@ -6,6 +6,6 @@ permalink: /projects/
 
 ### A list of previous or current projects
 
-- [DRL for Financial Trading](https://kostis-s-z.github.io/financial_rl)
+- [DRL for Financial Trading](https://kostis-s-z.github.io/projects/financial_rl)
 
-- [Project Jag.AI](https://kostis-s-z.github.io/Jag.AI)
+- [Project Jag.AI](https://kostis-s-z.github.io/projects/Jag.AI)
