@@ -2,4 +2,6 @@
 layout: default
 ---
 
-# Page
+# Konstantinos Saitas - Zarkias
+
+- Master Student in Machine Learning @ KTH
