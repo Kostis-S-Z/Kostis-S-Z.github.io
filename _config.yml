@@ -7,4 +7,4 @@ url: https://kostis-s-z.github.io/
 github_username: Kostis-S-Z
 
 include: ['_pages']
-exclude: ['_includes']  #
+# exclude: ['_includes']
