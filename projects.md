@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /Projects/
+permalink: /projects/
 ---
 
 ### A list of previous or current projects
