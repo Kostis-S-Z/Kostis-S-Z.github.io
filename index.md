@@ -2,9 +2,6 @@
 layout: default
 ---
 
-# *He(y|j) there!*
+- Master Student in Machine Learning @ KTH 2018-2019
 
-
-Konstantinos Saitas - Zarkias
-
-- Master Student in Machine Learning @ KTH
+- Under-grad in Computer Science @ AUTh 2013-2018
