@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Deep Reinforcement Learning for Financial Trading using Price Trailing  
 permalink: /financial_rl/
 ---
