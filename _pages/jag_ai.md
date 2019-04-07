@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Project Jag.AI
+layout: default
 permalink: /projects/Jag.AI/
 ---
 

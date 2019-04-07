@@ -1,6 +1,6 @@
 ---
+title: Deep Reinforcement Learning for Financial Trading using Price Trailing
 layout: default
-title: Deep Reinforcement Learning for Financial Trading using Price Trailing  
 permalink: /projects/financial_rl/
 ---
 
