@@ -1,8 +1,10 @@
 ---
 layout: default
-title: About
 ---
 
-# Konstantinos Saitas - Zarkias
+# *He(y|j) there!*
+
+
+Konstantinos Saitas - Zarkias
 
 - Master Student in Machine Learning @ KTH

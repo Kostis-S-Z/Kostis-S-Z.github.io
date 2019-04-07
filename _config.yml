@@ -1,9 +1,9 @@
 theme: jekyll-theme-midnight
-description:  <br> <a href="https://kostis-s-z.github.io/projects">Projects</a>  | <a href="https://kostis-s-z.github.io/blog">Blog</a>  | <a href="https://kostis-s-z.github.io/">Personal Page</a>
+description:  <a href="https://kostis-s-z.github.io/projects">Projects</a>  | <a href="https://kostis-s-z.github.io/blog">Blog</a>  | <a href="https://kostis-s-z.github.io/">Personal Page</a>
 email: kosz@kth.se
 baseurl: ""
 url: https://kostis-s-z.github.io
 github_username: Kostis-S-Z
 
-include: ['_pages', '_posts']
+include: ['_pages', '_posts', '_layout']
 # exclude: ['_includes']
