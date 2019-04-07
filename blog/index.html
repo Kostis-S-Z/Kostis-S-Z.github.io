@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<!--
+{% include head.html %}
+<body>
+	{% include header.html %}
+	<main> -->
+
+	<h2>Understanding AI: A human's perspective </h2>
+
+		The basic motivation of this blog was the book Machine Learning: An Algorithmic Perspective by Stephen Marsland and the cource Artificial Neural Networks and Deep Architectures in Spring 2019 at KTH . A lot of material has been inpired and quoted from this book and I highly recommend getting yourself a copy of this book. You will find that, if you are coming from a Computer Science background or reading an algorithmic approach or writing code about something, is what helps you best to actually understand it, this book will not let you down. On the other hand, if you like math, you might find the lack of them maybe even a bit frustrating. To compliment _some_ of the mathematical parts of Machine Learning, checkout Bishop's Pattern Recognition and Machine Learning. <br>
+		<br>
+
+		These posts can act as following: 
+		 <ul>
+		 <li>Introductory presentations of popular ML concepts </li>
+		 <li>Brush off concepts that you might have forgotten / Basic revision material</li>
+		 <li>Possible additional information on a studied concept / Another perspective on something you already know</li>
+		</ul> 
+
+		Analysis Scale: <br>
+		A very simple scale on how extensively a post covers a topic. These are not fixed values! It is very possible that in the future I might go over a topic again and analyse it more extenstively. <br>
+		<i>Keep in mind that these posts are <b>introductions</b></i>
+		<ol>
+		<li> A very brief mention on the concept accompanied with material to study. No definitions, no analysis, no method descriptions.</li>
+		<li> Covering a bit more on a topic and how it is used. Very basic definitions and an outline of popular methods.</li>
+		<li> A dive into a concept. Motivation on why to use this, analysis on how it works, many definitions and a study of the most common algorithms.</li>
+		</ol>
+
+		<b> Posts: </b>
+
+		{% assign sorted_posts = (site.posts | sort: 'date') %}
+		{% for post in sorted_posts %}
+		 		<ul>
+				 <li> <h3> &ensp; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> | <time>{{ post.date | date: "%b %-d, %Y" }}</time> </h3> </li>
+				</ul> 
+		{% endfor %}
+
+<!--
+		{% include footer.html %}
+		</main>
+	</body> -->
+<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via Atom</a></p>
