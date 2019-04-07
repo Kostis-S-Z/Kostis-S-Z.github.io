@@ -1,7 +1,9 @@
 theme: jekyll-theme-midnight
 title: He(y|j) there!
-description:  About me <br> <a href="https://kostis-s-z.github.io/projects.md">Projects</a>  | <a href="https://kostis-s-z.github.io/blog.html">Blog</a>  | <a href="https://kostis-s-z.github.io/">Personal Page</a>
+description:  About me <br> <a href="https://kostis-s-z.github.io/projects">Projects</a>  | <a href="https://kostis-s-z.github.io/blog">Blog</a>  | <a href="https://kostis-s-z.github.io/">Personal Page</a>
 email: kosz@kth.se
 baseurl: ""
 url: https://kostis-s-z.github.io/
 github_username: Kostis-S-Z
+
+exclude: ['_includes']  #

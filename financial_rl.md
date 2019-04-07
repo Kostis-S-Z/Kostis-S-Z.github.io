@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep Reinforcement Learning for Financial Trading using Price Trailing  
-permalink: /projects/financial_rl/
+permalink: /financial_rl/
 ---
 
 ## Deep Reinforcement Learning for Financial Trading using Price Trailing 
