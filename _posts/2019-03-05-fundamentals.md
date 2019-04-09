@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Some FUNdamentals _(AS:3)_"
+title: "Some FUNdamentals"
 ---
 
 <div style="text-align: right"> <i> Analysis Scale: 3 </i> </div>
