@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Some FUNdamentals"
+title: "Some FUNdamentals _(AS:3)_"
 ---
+
+<div style="text-align: right"> <i> Analysis Scale: 3 </i> </div>
 
 ## _Motivation for Machine Learning_
 
@@ -201,8 +203,4 @@ Repeated regression, once for each class, with the indicator being one for all e
 > _Under-training and over-training are equally dangerous._
  
  
- ### Sources:
- 
- 
- 
- ##### _Analysis Scale: 3_
+### Sources:
