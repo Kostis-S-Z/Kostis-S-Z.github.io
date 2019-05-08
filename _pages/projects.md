@@ -4,7 +4,7 @@ layout: default
 permalink: /projects/
 ---
 
-### A list of current or previous projects
+### A list of current or previous projects (Contact me for access to private repositories)
 
 - [Deep Reinforcement Learning for Financial Trading](https://kostis-s-z.github.io/projects/trading-rl)
 
