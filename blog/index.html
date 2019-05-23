@@ -15,7 +15,7 @@ layout: default
 		{% assign sorted_posts = (site.posts | sort: 'date') %}
 		{% for post in sorted_posts %}
 		 		<ul>
-				 <li>  &emsp; &ensp; <h3> &ensp; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> | <time>{{ post.date | date: "%b %-d, %Y" }}</time> </h3> </li>
+				 <li> <h3> &ensp; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> | <time>{{ post.date | date: "%b %-d, %Y" }}</time> </h3> </li>
 				</ul> 
 		{% endfor %}
 
