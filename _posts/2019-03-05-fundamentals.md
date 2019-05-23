@@ -202,6 +202,3 @@ Repeated regression, once for each class, with the indicator being one for all e
 
 > _Under-training and over-training are equally dangerous._
  
- 
-
-{% include post_nav.html%}
