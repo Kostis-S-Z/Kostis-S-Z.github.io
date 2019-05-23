@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ml_posts
 title: "Some FUNdamentals"
 ---
 
