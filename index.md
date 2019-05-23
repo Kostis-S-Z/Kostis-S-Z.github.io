@@ -2,6 +2,6 @@
 layout: default
 ---
 
-- Master Student in Machine Learning @ KTH 2018-2019
+- Master in Machine Learning @ KTH 2018-present
 
-- Under-grad in Computer Science @ AUTh 2013-2018
+- Bachelor in Computer Science (Spec: Information Systems) @ AUTh 2013-2018
