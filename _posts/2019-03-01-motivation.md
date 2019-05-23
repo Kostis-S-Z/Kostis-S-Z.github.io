@@ -23,4 +23,11 @@ A very simple scale on how extensively a post covers a topic. These are not fixe
 <li> A dive into a concept. Motivation on why to use this, analysis on how it works, many definitions and a study of the most common algorithms.</li>
 </ol>
 
-{% include post_nav.html%}
+<div class="post-nav">
+    {% if page.previous.url %}
+    <a class="prev" href={{page.previous.url}}>&laquo;{{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+    <a class="next" href={{page.next.url}}>{{page.next.title}}&raquo;</a>
+    {% endif %}
+</div>
