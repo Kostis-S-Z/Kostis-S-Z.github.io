@@ -1,5 +1,5 @@
 ---
-layout: ml_posts
+layout: default
 title: "Some FUNdamentals"
 ---
 
@@ -203,4 +203,5 @@ Repeated regression, once for each class, with the indicator being one for all e
 > _Under-training and over-training are equally dangerous._
  
  
-### Sources:
+
+{% include post_nav.html%}

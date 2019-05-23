@@ -1,5 +1,5 @@
 ---
-layout: ml_posts
+layout: default
 title: "Motivation"
 ---
 
@@ -22,3 +22,5 @@ A very simple scale on how extensively a post covers a topic. These are not fixe
 <li> Covering a bit more on a topic and how it is used. Very basic definitions and an outline of popular methods.</li>
 <li> A dive into a concept. Motivation on why to use this, analysis on how it works, many definitions and a study of the most common algorithms.</li>
 </ol>
+
+{% include post_nav.html%}
