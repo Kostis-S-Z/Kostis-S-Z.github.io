@@ -24,10 +24,10 @@ A very simple scale on how extensively a post covers a topic. These are not fixe
 </ol>
 
 <div class="post-nav">
-    {% if page.previous.url %}
-    <a class="prev" href={{page.previous.url}}>&laquo;{{page.previous.title}}</a>
-    {% endif %}
-    {% if page.next.url %}
-    <a href={{page.next.url}}>{{page.next.title}}&raquo;</a>
-    {% endif %}
+{% if page.previous.url %}
+<a class="prev" href={{page.previous.url}}>&laquo;{{page.previous.title}}</a>
+{% endif %}
+{% if page.next.url %}
+<a class="next" href={{page.next.url}}>{{page.next.title}}&raquo;</a>
+{% endif %}
 </div>
