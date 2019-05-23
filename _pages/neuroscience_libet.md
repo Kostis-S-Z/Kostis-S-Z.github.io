@@ -25,7 +25,7 @@ Another limitation of Libet’s Free Won’t experiment is that the EEG devices 
 
 
 
-#### References:
+### References:
 
 1. Libet, B., Gleason, C.A., Wright, E.W. & Pearl, D.K. ‘Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential). The unconscious initiation of a freely voluntary act’, Brain (1983) 106: 623- 642.
 
