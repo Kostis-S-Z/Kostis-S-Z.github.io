@@ -19,6 +19,8 @@ The motivation for this experiment and the final key insights are related to som
 
 ### Limitations / Assumptions:
 
+This experiment was done in a very controlled environment where subjects were specifically told to move their muscles whenever they pleased. This preparation for the action and the certainty of that this action will be completed could play a considerable role to how the brain prepares and acts on this situation. This could be seen as the result of the Hawthorne effect (observer effect) where the subjects, even unconsciously, change their actions or behaviour in response to the fact that they know they are being studied thus undermining the results of the experiment.
+
 As Alfred Mele, points out [3], the appearance of a readiness potential activity in the brain does not mean that this is what causes the action. The RP could just be the result of the intention to act but not the act by itself.
 
 Another limitation of Libet’s Free Won’t experiment is that the EEG devices are triggered to show brain activity when an action happens and thus no activity could be shown if no action would be performed.
