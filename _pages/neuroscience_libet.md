@@ -5,7 +5,7 @@ permalink: /blog/libet
 ---
 
 
-## Review of Libet's Experiment on free will
+## Consciousness as an epiphenomenon?
 
 A very famous and interesting experiment is that of Benjamin Libet during the early 1980’s which started a long debate about the free will on humans [1].
 
