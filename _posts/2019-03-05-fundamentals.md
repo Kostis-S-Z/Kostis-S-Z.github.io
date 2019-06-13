@@ -131,11 +131,11 @@ This is determined by the learning method which ultimately is how you calculate 
 
 ### Learning Method:
 
-The update of the weights: $$ w_{ij} = w_{ij} - \Delta w_{ij} $$
+The update of the weights: w_ij = w_ij - Δw_ij
 
 #### Perceptron: Find the weights that fit exactly the correct solution (y=t)
 
-$$ \Delta w = - \eta * (y_j - t_j) * x_i $$ where y: the predictions of the model and t: the targets (ground truth) 
+Δw = - η * (y_j - t_j) * x_i where y: the predictions of the model and t: the targets (ground truth) 
 
 #### Delta Rule: Try to minimise the error based on its gradient (this is a hint about the famous gradient descent used in multilayer networks!)
 
@@ -145,13 +145,13 @@ e = t - wx
 
 _Set the error function as following_
 
-$$ \epsilon = \frac{e^2}{2} $$
+ε = e^2 / 2
 
 _Take the derivative of the error function_
 
-$$ \frac{\delta \epsilon}{\delta w} = e \frac{\delta e}{\delta w} = e \frac{\delta (t-wx)}{\delta w} = -e * x $$
+δε / δw = e δε / δw = e δ(t-wx) / δw = -e * x
 
-$$ \Delta w = - \eta * e * x $$
+Δw = - η * e * x
 
 _Some notes regarding the gradient:_
 
@@ -189,9 +189,8 @@ But for a simple case, even as XOR, Perceptron is unable to find a solution in 2
   -  Normalization should be done in the training data and in the test data in the same way (same mean and variance)!
 
 It is common to turn classification problems into regression problems. Two ways to do it:
-Introduce an indicator variable which says in which class each datapoint belongs and then try to predict this variable
-Repeated regression, once for each class, with the indicator being one for all examples in this class and 0 for all the others.
-
+- Introduce an indicator variable which says in which class each datapoint belongs and then try to predict this variable
+- Repeated regression, once for each class, with the indicator being one for all examples in this class and 0 for all the others.
 
 
 ## _Nice Quotes_
@@ -202,3 +201,9 @@ Repeated regression, once for each class, with the indicator being one for all e
 
 > _Under-training and over-training are equally dangerous._
  
+
+### Sources
+
+1. Marsland, Stephen. Machine learning: an algorithmic perspective. Chapman and Hall/CRC, 2011.
+
+2. Lecture 1-2 Fundamentals Slides from Artificial Neural Networks and Deep Architectures DD2437 @ KTH Spring 2019

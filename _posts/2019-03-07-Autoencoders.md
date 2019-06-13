@@ -55,3 +55,9 @@ When training autoencoders there needs to be a compromise between 1 and 2
 
 - Depth can also exponentially decrease the amount of training data needed to learn some functions.
 
+
+### Sources
+
+1. Lecture 10 "Representation learning and deep generative models" Slides from Artificial Neural Networks and Deep Architectures DD2437 @ KTH Spring 2019
+
+2. Marsland, Stephen. Machine learning: an algorithmic perspective. Chapman and Hall/CRC, 2011.
