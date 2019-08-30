@@ -6,4 +6,4 @@ url: https://kostis-s-z.github.io
 github_username: Kostis-S-Z
 
 include: ['_pages', '_posts', '_layout']
-# exclude: ['_includes']
+exclude: ['files'] # ['_includes']
