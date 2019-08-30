@@ -21,6 +21,8 @@ _Contact me for access to private repositories_
 
 ### Presentations
 
-- [Getting started with Git](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Git%20Presentation.pdf)
+- [(Mis)Handling Data (2018)](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/(Mis)Handling%20Data.pdf)
 
-- [(Mis)Handling Data](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/(Mis)Handling%20Data.pdf)
+- [Getting started with Git (2016)](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Git%20Presentation.pdf)
+
+- [Getting started with Linux (2016)](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Linux%20Presentation.pdf)
