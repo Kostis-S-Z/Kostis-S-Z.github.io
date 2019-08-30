@@ -10,12 +10,12 @@ layout: default
 
 	<h2> Machine Learning </h2>
 
-		 <h3> - Mini-series on Artificial Neural Networks: </h3>
+		 <h3> &ensp; Mini-series on Artificial Neural Networks: </h3>
 
 		{% assign sorted_posts = (site.posts | sort: 'date') %}
 		{% for post in sorted_posts %}
 		 		<ul>
-				 <li> <h3> &ensp; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> | <time>{{ post.date | date: "%b %-d, %Y" }}</time> </h3> </li>
+				 <li> <h3> &ensp; &ensp; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> | <time>{{ post.date | date: "%b %-d, %Y" }}</time> </h3> </li>
 				</ul> 
 		{% endfor %}
 
