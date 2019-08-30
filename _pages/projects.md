@@ -4,7 +4,9 @@ layout: default
 permalink: /projects/
 ---
 
-### A list of current or previous projects (Contact me for access to private repositories)
+### A list of current or previous projects
+
+_Contact me for access to private repositories_
 
 - [Deep Reinforcement Learning for Financial Trading (+ Publication)](https://github.com/Kostis-S-Z/trading-rl)
 
@@ -15,3 +17,10 @@ permalink: /projects/
 - [Deep Reinforcement Learning for Frontal Face Tracking](https://github.com/Kostis-S-Z/drone-rl)
 
 - [Multi-Agent Air Traffic System](https://github.com/Kostis-S-Z/MAS-AirTrafficSystem)
+
+
+### Presentations
+
+- [Getting started with Git](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Git%20Presentation.pdf)
+
+- [(Mis)Handling Data](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/(Mis)Handling%20Data.pdf)
