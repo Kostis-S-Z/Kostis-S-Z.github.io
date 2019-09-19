@@ -26,3 +26,5 @@ _Contact me for access to private repositories_
 - [Getting started with Git (2016)](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Git%20Presentation.pdf)
 
 - [Getting started with Linux (2016)](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Linux%20Presentation.pdf)
+
+- [Privacy & Machine Learning (2019)][https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Privacy%20%26%20ML.pdf]
