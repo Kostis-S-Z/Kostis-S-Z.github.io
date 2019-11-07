@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Diving into Multilayer Networks"
+title: "Introduction to Meta-Learning"
 ---
 
 ## Introduction to Meta-Learning
