@@ -24,7 +24,7 @@ _Contact me for access to private repositories_
 
 
 ### Publications
-- [Price Trailing for Financial Trading Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9112694) (TNNLS 2020) (PDF)
+- [Price Trailing for Financial Trading Using Deep Reinforcement Learning](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Price%20Trailing%20Regularized%20Deep%20Reinforcement%20Learning%20for%20Financial%20Trading.pdf) (TNNLS 2020) (PDF)
 
 - [Deep Reinforcement Learning for Financial Trading using Price Trailing](https://github.com/Kostis-S-Z/trading-rl/blob/master/Deep%20Reinforcement%20Learning%20for%20Financial%20Trading%20using%20Price%20Trailing.pdf) (ICASSP 2019)(PDF) 
 
@@ -32,12 +32,12 @@ _Contact me for access to private repositories_
 
 ### Presentations
 
-- [Privacy & Machine Learning (2019)](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Privacy%20%26%20ML.pdf)
+- [Privacy & Machine Learning](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Privacy%20%26%20ML.pdf) (2019)
 
-- [(Mis)Handling Data (2018)](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/(Mis)Handling%20Data.pdf)
+- [(Mis)Handling Data](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/(Mis)Handling%20Data.pdf) (2018)
 
-- [Getting started with Git (2016)](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Git%20Presentation.pdf)
+- [Getting started with Git](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Git%20Presentation.pdf) (2016)
 
-- [Getting started with Linux (2016)](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Linux%20Presentation.pdf)
+- [Getting started with Linux](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Linux%20Presentation.pdf) (2016)
 
 
