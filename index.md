@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Currently on the second year of my Masters in Machine Learning at KTH, Sweden. Graduated from my Bachelor in Computer Science (Specialization in Information Systems) from Aristotle University of Thessaloniki, Greece on Spring 2018. My bachelor thesis was on Reinforcement Learning & Financial Trading and author of a related publication at ICASSP 2019, which you can find under the Projects tab. Personal concerns / interests on AI Ethics, Privacy & Sustainability.
+Machine Learning M.Sc graduate from KTH Royal Institute of Technology with a strong Computer Science (B.S) background and Information Systems (B.S Specialization). Publications on ICASSP 2019 and TNNLS 2020 on Reinforcement Learning and Financial Trading (more under Projects tab). Personal concerns / interests on AI Ethics, Privacy & Sustainability and open soucre advocate.
