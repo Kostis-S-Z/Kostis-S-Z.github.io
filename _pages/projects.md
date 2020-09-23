@@ -8,6 +8,8 @@ permalink: /projects/
 
 _Contact me for access to private repositories_
 
+- [learn2learn: Meta-Learning library](https://github.com/learnables/learn2learn) (2019)
+
 - [Hierarchical Convolutional Neural Networks with Hard Attention](https://github.com/rarriaza/ATPRO_HCNN) (2019)
 
 - [Reproducibility challenge NeurIPS 2019: Meta-Learning Representations for Continual Learning](https://github.com/Kostis-S-Z/mrcl_re) (2019)
@@ -24,6 +26,8 @@ _Contact me for access to private repositories_
 
 
 ### Publications
+- [learn2learn: A Library for Meta-Learning Research](https://arxiv.org/abs/2008.12284) (arXiv 2020)
+
 - [Price Trailing for Financial Trading Using Deep Reinforcement Learning](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Price%20Trailing%20Regularized%20Deep%20Reinforcement%20Learning%20for%20Financial%20Trading.pdf) (TNNLS 2020) (PDF)
 
 - [Deep Reinforcement Learning for Financial Trading using Price Trailing](https://github.com/Kostis-S-Z/trading-rl/blob/master/Deep%20Reinforcement%20Learning%20for%20Financial%20Trading%20using%20Price%20Trailing.pdf) (ICASSP 2019)(PDF) 
