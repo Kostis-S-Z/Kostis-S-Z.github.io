@@ -8,7 +8,7 @@ permalink: /projects/
 
 _Contact me for access to private repositories_
 
-- [learn2learn: Meta-Learning library](https://github.com/learnables/learn2learn) (2019)
+- [learn2learn: Meta-Learning library](https://github.com/learnables/learn2learn) (Contributor) (2019)
 
 - [Hierarchical Convolutional Neural Networks with Hard Attention](https://github.com/rarriaza/ATPRO_HCNN) (2019)
 
