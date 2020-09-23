@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Introduction to Meta-Learning"
+permalink: /blog/intro_to_meta
 ---
 
 ## Introduction to Meta-Learning
