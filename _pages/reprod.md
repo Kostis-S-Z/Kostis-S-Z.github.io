@@ -1,3 +1,10 @@
+---
+title: ML & Irreproducibility
+layout: default
+permalink: /blog/reprod
+---
+
+
 ### Open Source Research!
 
 One of the recurrent issues that has been plaguing the ML research community is irreproducibility. An issue that I have stumbled upon many times, both in my latest degree project on Meta-Reinforcement Learning (a field known to have considerable irreproducibility issues) and in the NeurIPS 2019 reproducibility challenge. Unfortunately, in many cases, there is no simple solution to it. Immense computational costs, private data, proprietary code…
