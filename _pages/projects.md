@@ -36,6 +36,8 @@ _Contact me for access to private repositories_
 
 ### Presentations
 
+- Algorithmic bias: Is it our problem? (2021) (_Private_)
+
 - [Privacy & Machine Learning](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/Privacy%20%26%20ML.pdf) (2019)
 
 - [(Mis)Handling Data](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/(Mis)Handling%20Data.pdf) (2018)
