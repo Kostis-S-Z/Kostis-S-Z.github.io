@@ -8,9 +8,9 @@ permalink: /projects/
 
 _Contact me for access to private repositories_
 
-- [learn2learn: Meta-Learning library](https://github.com/learnables/learn2learn) (Contributor) (2019)
+- [learn2learn: Meta-Learning library](https://github.com/learnables/learn2learn) (Contributor) (2020)
 
-- [Hierarchical Convolutional Neural Networks with Hard Attention](https://github.com/rarriaza/ATPRO_HCNN) (2019)
+- [Hierarchical Convolutional Neural Networks with Hard Attention](https://github.com/rarriaza/ATPRO_HCNN) (2020)
 
 - [Reproducibility challenge NeurIPS 2019: Meta-Learning Representations for Continual Learning](https://github.com/Kostis-S-Z/mrcl_re) (2019)
 
