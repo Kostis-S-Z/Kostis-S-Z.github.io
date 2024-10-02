@@ -39,7 +39,7 @@ permalink: /projects/
 
 - [Detecting PII text with LLMs](https://github.com/Kostis-S-Z/pii_detector) (2024)
 
-- [learn2learn: Meta-Learning library](https://github.com/learnables/learn2learn) (Contributor) (2020)
+- [learn2learn: Meta-Learning library](https://github.com/learnables/learn2learn) (2020)
 
 - [Hierarchical Convolutional Neural Networks with Hard Attention](https://github.com/rarriaza/ATPRO_HCNN) (2020)
 
