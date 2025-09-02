@@ -7,7 +7,11 @@ permalink: /projects/
 
 ### Seminars
 
-- [Data Dreams and Ethical Realities](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/poster.JPG) (2024)
+- AI Agents & The Lonely Machine (2025) (_Private_)
+
+- [Your own, local, privacy-preserving code-assistant](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/local%20code%20assistant.pdf) (2025) 
+
+- [Data Dreams and Ethical Realities @ Onassis ONX](https://github.com/Kostis-S-Z/Kostis-S-Z.github.io/blob/master/files/poster.JPG) (2024)
 
 - Artificial Intelligence as a Techno-social system (2022) (_Private_)
 
@@ -24,7 +28,7 @@ permalink: /projects/
 
 ### Publications & Collaborations
 
-- [The Lonely Machine](https://zoehatziyannaki.com/The-Lonely-Machine) (Funded Art Research project 2020-2021)
+- [The Lonely Machine](https://zoehatziyannaki.com/The-Lonely-Machine) (Funded Art Research Project)
 
 - [learn2learn: A Library for Meta-Learning Research](https://arxiv.org/abs/2008.12284) (arXiv 2020)
 
@@ -35,7 +39,14 @@ permalink: /projects/
 - [Reproducibility Challenge: Meta-Learning Representations for Continual Learning](https://openreview.net/pdf?id=H1giraczTS) (_OpenReview_) (PDF)
   
 
-### A list of previous open-source projects
+### Archive of some of my open-source work at mozilla.ai during 2024-2025
+
+- [Blueprints](https://blueprints.mozilla.ai) (work across multiple repositories)
+- [agent-factory](https://github.com/mozilla-ai/agent-factory)
+- [any-agent](https://github.com/mozilla-ai/any-agent)
+- [mcpd](https://github.com/mozilla-ai/mcpd)
+
+### Archive of personal open-source projects
 
 - [Detecting PII text with LLMs](https://github.com/Kostis-S-Z/pii_detector) (2024)
 
